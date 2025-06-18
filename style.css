@@ -5,10 +5,11 @@
 }
 
 header{
-    max-height: 80px;
-    min-height: 80px;
+    max-height: 68px;
+    min-height: 68px;
     background-color: #ff6900;
     display: flex;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
 }
 
 nav{
@@ -26,6 +27,7 @@ nav{
 
 .logo{
     max-width: 180px;
+    max-height: 68px;
     align-self: center;
     margin: auto;
     color: white;

@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+header{
+    max-height: 80px;
+    min-height: 80px;
+    background-color: #ff6900;
+    display: flex;
+}
+
+nav{
+    align-self: center;
+    color: white;
+        ul{
+            list-style: none;
+            display: flex;
+            justify-content: left;
+            gap: 1rem;
+            position: relative;
+            top;
+            right;
+            left: 70%;
+    }
+}
+
+.logo{
+    max-width: 180px;
+    align-self: center;
+    margin: auto;
+    color: white;
+}

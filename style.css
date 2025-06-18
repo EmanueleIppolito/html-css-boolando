@@ -20,8 +20,6 @@ nav{
             justify-content: left;
             gap: 1rem;
             position: relative;
-            top;
-            right;
             left: 70%;
     }
 }
@@ -31,4 +29,16 @@ nav{
     align-self: center;
     margin: auto;
     color: white;
+    position: relative;
+    
+}
+
+.icons{
+    align-self: center;
+    color: white;
+    display: flex;
+    gap: 0.5rem;
+    position: relative;
+    right: 10%;
+
 }
